@@ -10,6 +10,7 @@ namespace WordUnscrambler
 	{
 		static void Main(string[] args)
 		{
+			List<int> listy = new List<int>();
 		}
 	}
 }
