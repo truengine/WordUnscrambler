@@ -9,7 +9,7 @@ using WordUnscrambler.Data;
 
 namespace WordUnscrambler
 {
-	class Program
+	 class Program
 	{
 
 		private static readonly FileReader _fileReader = new FileReader();

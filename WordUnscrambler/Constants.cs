@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WordUnscrambler
 {
-	class Constants
+	 class Constants
 	{
 		public const string Options = "Enter scrambled words manually or as a file: F- file/M- manual";
 		public const string OptionsContinue = "Continue? Y/N";
